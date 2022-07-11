@@ -1,0 +1,26 @@
+.search {
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 255, 1);
+    padding: 10px 0;
+    width: 100%;
+}
+
+.search-form {
+    position: relative;
+    display: flex;
+    width: 350px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.inputs-style {
+    padding: 10px 60px 10px 10px;
+    width: 100%;
+    border: none;
+    outline: none;
+}

@@ -1,2 +1,11 @@
 @import './common';
 @import './example';
+@import './gallary';
+@import './search-form';
+@import './button';
+
+body {
+    height: 100%;
+    padding: 75px 15px 30px 15px;
+    background-color: rgba(0, 132, 255, 0.096);
+}
